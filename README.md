@@ -1,1 +1,1 @@
-Github checkpoint assignment
+Github Checkpoint Assignment
